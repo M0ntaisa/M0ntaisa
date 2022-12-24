@@ -21,35 +21,6 @@
 - Music Enthusiasm
 
 <br><br>
-<details>
-  <summary>🧮 about this account</summary>
-<div>
-<samp>
-<h2 align="left">About this Account</h2>
- <p align="left">
-  <a href="github.com/M0ntaisa" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=m0ntaisa&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" /></a>
-  </p>
-  <p align="left">
-  <a href="https://www.codefactor.io/repository/github/1999azzar/M0ntaisa/overview/main"><img align="center"
-     src="https://www.codefactor.io/repository/github/1999azzar/M0ntaisa/badge/main" height="25"
-     alt="CodeFactor" /></a>
-  <a href="github.com/M0ntaisa" target="blank"><img align="center" 
-     src="https://github.com/M0ntaisa/M0ntaisa/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
-     alt="page built"/></a>
-  </p>
- <p align="left">
-  <a href="github.com/M0ntaisa" target="blank"><img align="center" 
-     src="https://img.shields.io/github/license/M0ntaisa/M0ntaisa?color=purple&style=for-the-badge" height="25"
-     alt="lisense" /></a>
-  <a href="github.com/M0ntaisa"><img align="center"
-     src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
-     alt="work on my machine" /></a>
- </p>
- </samp>
-</div>
-</details>
 
 <details>
   <summary>☎️ contact me</summary>
@@ -87,7 +58,27 @@
 <br>
 
 <p align="center">
-
+![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
+![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
+![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 
 <br>
