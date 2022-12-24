@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Monochrome Taisa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+'Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Front-End+Developer,;Freelancer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+'Alaikum+Warahmatullah..&hearts;++;Self-taught+FullScrap+Developer,;Freelancer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -12,7 +12,7 @@
 
 <br>
 
-- A passionate Self-taught Back-end & Front-end developer
+- A passionate Self-taught 
 - Currently learning Desktop App Development by Self Oc
 - Music Enthusiasm
 
