@@ -25,19 +25,16 @@
     <h2 align="left">you can reach me by:</h2>
     <p align="left">
       <br/>
-      <a href="https://fb.com/id.m1303" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="azzar" height="30"/></a>
       <a href="mailto:dragonneetoo@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://wa.me/+628xxxx" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
   <p align="left">
       <a href="https://instagram.com/md.ham" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+628xxxx" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://twitter.com/idm1303" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
@@ -74,7 +71,7 @@
 <div align="center">
 
 <a href="https://github.com/m0ntaisa/">
-  <img src="https://github-readme-stats.vercel.app/api?username=m0ntaisa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/> <br> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=m0ntaisa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7D0A08A&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="70"/> <br> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m0ntaisa&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="m0ntaisa"/>
 
 </a>
