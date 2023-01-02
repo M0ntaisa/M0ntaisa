@@ -13,7 +13,7 @@
 <br>
 
 - A passionate Self-taught 
-- Currently learning Desktop App Development by Self Oc
+- Currently learning Desktop App Development
 - Music Enthusiasm
 
 <br><br>
