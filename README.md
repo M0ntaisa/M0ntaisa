@@ -14,6 +14,7 @@
 
 - A passionate Self-taught 
 - Currently learning Desktop App Development
+- A little confused, but still got the spirit.
 - Music Enthusiasm
 
 <br><br>
