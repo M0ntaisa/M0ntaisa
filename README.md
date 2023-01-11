@@ -8,7 +8,6 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  **About me**
 
-
 <picture> <img align="right" src="https://github.com/M0ntaisa/M0ntaisa/blob/main/rust.gif?raw=true" width = 250px></picture>
 
 <br>
@@ -70,13 +69,17 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/m0ntaisa/">
   <img src="https://github-readme-stats.vercel.app/api?username=m0ntaisa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=D0A08A&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" /> <br> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m0ntaisa&show_icons=true&locale=en&layout=compact&line_height=20&title_color=D0A08A&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="m0ntaisa"/>
 
 </a>
+</div>
+
+<div align="right">
+  <a href="https://app.daily.dev/m0ntaisa"><img src="https://api.daily.dev/devcards/463fb8cb1d344e3a94c33c7fdb3ed2df.png?r=0nq" width="400" alt="Monochrome Taisa's Dev Card"/></a>
 </div>
 
 <br>
