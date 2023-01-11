@@ -78,9 +78,8 @@
 </a>
 </div>
 
-<div align="right">
-  <a href="https://app.daily.dev/m0ntaisa"><img src="https://api.daily.dev/devcards/463fb8cb1d344e3a94c33c7fdb3ed2df.png?r=0nq" width="400" alt="Monochrome Taisa's Dev Card"/></a>
-</div>
+<a href="https://app.daily.dev/m0ntaisa"><img align="right" src="https://api.daily.dev/devcards/463fb8cb1d344e3a94c33c7fdb3ed2df.png?r=0nq" width="300" alt="Monochrome Taisa's Dev Card"/></a>
+
 
 <br>
 <br>
