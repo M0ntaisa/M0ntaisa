@@ -18,7 +18,22 @@
 - Music Enthusiasm
 
 <br><br>
+<details>
+  <summary>☎️ stats</summary>
+<div>
+  <samp>
+    <h2 align="left">you can reach me by:</h2>
+    <p align="left">
+      <br/>
+     	<a href="https://github.com/m0ntaisa/">
+	  <img src="https://github-readme-stats.vercel.app/api?username=m0ntaisa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=D0A08A&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" /> <br> <br>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m0ntaisa&show_icons=true&locale=en&layout=compact&line_height=20&title_color=D0A08A&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="m0ntaisa"/>
 
+	</a>
+    </p>
+  </samp>
+</div>
+</details>
 <details>
   <summary>☎️ contact me</summary>
 <div>
@@ -61,16 +76,7 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
 
-<div align="left">
-
-<a href="https://github.com/m0ntaisa/">
-  <img src="https://github-readme-stats.vercel.app/api?username=m0ntaisa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=D0A08A&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" /> <br> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m0ntaisa&show_icons=true&locale=en&layout=compact&line_height=20&title_color=D0A08A&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="m0ntaisa"/>
-
-</a>
-</div>
 
 <br>
 <br>
