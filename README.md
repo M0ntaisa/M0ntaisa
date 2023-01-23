@@ -19,7 +19,7 @@
 
 <br><br>
 <details>
-  <summary>☎️ stats</summary>
+  <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="10"> stats</summary>
 <div>
   <samp>
     <h2 align="left">you can reach me by:</h2>
@@ -65,18 +65,6 @@
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,php,mysql,bootstrap,tailwind,jquery,nodejs,ts" />
   </a>
 </p>
-
-
-<br>
-<br>
-
-
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
 
 <br>
 <br>
