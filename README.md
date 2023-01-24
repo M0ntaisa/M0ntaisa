@@ -19,10 +19,22 @@
 
 <br><br>
 <details>
-  <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="10"> stats</summary>
+  <summary><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"> skills & tools</summary>
 <div>
   <samp>
-    <h2 align="left">you can reach me by:</h2>
+    <p align="left">
+      <br/>
+     	<a href="https://skillicons.dev">
+	  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,php,mysql,bootstrap,tailwind,jquery,nodejs,ts" />
+	</a>
+    </p>
+  </samp>
+</div>
+</details>
+<details>
+  <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="15"> stats</summary>
+<div>
+  <samp>
     <p align="left">
       <br/>
      	<a href="https://github.com/m0ntaisa/">
@@ -57,17 +69,3 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills & Tools</b>
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,php,mysql,bootstrap,tailwind,jquery,nodejs,ts" />
-  </a>
-</p>
-
-<br>
-<br>
-<br>
-
----
