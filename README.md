@@ -25,7 +25,7 @@
     <p align="left">
       <br/>
      	<a href="https://skillicons.dev">
-	  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,php,mysql,bootstrap,tailwind,jquery,nodejs,ts" />
+	  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,php,mysql,bootstrap,tailwind,jquery,nodejs" />
 	</a>
     </p>
   </samp>
