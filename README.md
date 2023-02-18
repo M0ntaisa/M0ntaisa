@@ -35,6 +35,7 @@
   <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="17"> stats</summary>
 <div>
   <samp>
+    <h2 align="left">github statistics:</h2>
     <div align="left">
       <br/>
      	<a href="https://github.com/m0ntaisa/">
