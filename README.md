@@ -4,9 +4,5 @@
 
 <picture> <img align="right" src="https://github.com/M0ntaisa/M0ntaisa/blob/main/rust.gif?raw=true" width = 250px></picture>
 
-<br>
-
-- A passionate Self-taught 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
