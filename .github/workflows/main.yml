@@ -25,7 +25,7 @@ jobs:
         uses: LuciNyan/pixel-profile/action@main
         with:
           outputs: |
-            dist/github-stats?username=M0ntaisa&screen_effect=false&theme=fuji&dithering=true&hide=avatar
+            dist/github-stats?username=M0ntaisa&screen_effect=false&theme=crt&dithering=true&hide=avatar
             dist/github-stats-dark?username=M0ntaisa&theme=crt
 
       # push the content of <build_dir> to a branch
